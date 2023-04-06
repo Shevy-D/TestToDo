@@ -1,7 +1,8 @@
-package com.shevy.testtodo
+package com.shevy.testtodo.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.shevy.testtodo.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
